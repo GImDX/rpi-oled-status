@@ -16,7 +16,7 @@
 
 - [wiringPi](http://wiringpi.com/)：用于 GPIO 和 I2C 操作
 - [SSD1306 I2C 驱动](https://github.com/adafruit/Adafruit_SSD1306)（本地改写版）
-- [MAX17043](https://github.com/olikraus/MAX17043-Arduino-Library) 电池电量传感器驱动（移植为 C++）
+- [MAX17043](https://github.com/lucadentella/ArduinoLib_MAX17043) 电池电量传感器驱动（移植为 C++）
 
 ## 编译方式
 
